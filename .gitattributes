@@ -1,0 +1,2 @@
+*.hdf5 filter=lfs diff=lfs merge=lfs -text
+Fer2013.hdf5 filter=lfs diff=lfs merge=lfs -text
